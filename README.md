@@ -1,4 +1,4 @@
- INTRODUCING MYSELF
+🐱‍👤 INTRODUCING MYSELF
 
 - 👋 Hi, I’m @AntonLavrukhin
 - 👀 I’m interested in coding, data manipulation and Space exploration
